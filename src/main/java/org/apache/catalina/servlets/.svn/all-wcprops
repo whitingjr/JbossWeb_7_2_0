@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/servlets
+END
+CGIServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/servlets/CGIServlet.java
+END
+DefaultServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/servlets/DefaultServlet.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/servlets/Constants.java
+END
+WebdavServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/servlets/WebdavServlet.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/servlets/package.html
+END

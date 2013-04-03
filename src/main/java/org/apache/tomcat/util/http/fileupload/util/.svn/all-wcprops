@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/tomcat/util/http/fileupload/util
+END
+Closeable.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/tomcat/util/http/fileupload/util/Closeable.java
+END
+FileItemHeadersImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/tomcat/util/http/fileupload/util/FileItemHeadersImpl.java
+END
+Streams.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/tomcat/util/http/fileupload/util/Streams.java
+END
+LimitedInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/tomcat/util/http/fileupload/util/LimitedInputStream.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/jboss/servlet/http
+END
+HttpEventFilterChain.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/jboss/servlet/http/HttpEventFilterChain.java
+END
+UpgradableHttpServletResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/jboss/servlet/http/UpgradableHttpServletResponse.java
+END
+HttpEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/jboss/servlet/http/HttpEvent.java
+END
+HttpEventServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/jboss/servlet/http/HttpEventServlet.java
+END
+HttpEventFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/jboss/servlet/http/HttpEventFilter.java
+END

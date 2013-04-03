@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/webapps/docs/config
+END
+executor.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/webapps/docs/config/executor.xml
+END
+subsystem.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/webapps/docs/config/subsystem.xml
+END
+service.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/webapps/docs/config/service.xml
+END
+ssl.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/webapps/docs/config/ssl.xml
+END
+engine.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/webapps/docs/config/engine.xml
+END
+server.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/webapps/docs/config/server.xml
+END
+project.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/webapps/docs/config/project.xml
+END
+loader.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/webapps/docs/config/loader.xml
+END
+index.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/webapps/docs/config/index.xml
+END
+resources.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/webapps/docs/config/resources.xml
+END
+manager.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/webapps/docs/config/manager.xml
+END
+ajp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/webapps/docs/config/ajp.xml
+END
+host.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/webapps/docs/config/host.xml
+END
+valve.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/webapps/docs/config/valve.xml
+END
+http.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/webapps/docs/config/http.xml
+END
+context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/webapps/docs/config/context.xml
+END
+native.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/webapps/docs/config/native.xml
+END
+static.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/webapps/docs/config/static.xml
+END
+globalresources.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/webapps/docs/config/globalresources.xml
+END
+jsp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/webapps/docs/config/jsp.xml
+END

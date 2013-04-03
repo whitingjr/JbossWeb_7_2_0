@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/connector
+END
+RequestFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/connector/RequestFacade.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/connector/Constants.java
+END
+ResponseFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/connector/ResponseFacade.java
+END
+mbeans-descriptors.xml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/connector/mbeans-descriptors.xml
+END
+CoyoteReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/connector/CoyoteReader.java
+END
+ClientAbortException.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/connector/ClientAbortException.java
+END
+Request.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/connector/Request.java
+END
+InputBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/connector/InputBuffer.java
+END
+OutputBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/connector/OutputBuffer.java
+END
+Connector.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/connector/Connector.java
+END
+ConnectorMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/connector/ConnectorMBean.java
+END
+Response.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/connector/Response.java
+END
+CoyoteInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/connector/CoyoteInputStream.java
+END
+CoyoteWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/connector/CoyoteWriter.java
+END
+CoyoteOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/connector/CoyoteOutputStream.java
+END
+HttpEventImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/connector/HttpEventImpl.java
+END
+CoyoteAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/connector/CoyoteAdapter.java
+END
+CoyotePrincipal.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/connector/CoyotePrincipal.java
+END

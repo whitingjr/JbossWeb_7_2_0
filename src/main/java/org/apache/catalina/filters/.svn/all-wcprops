@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/filters
+END
+RemoteIpFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/filters/RemoteIpFilter.java
+END
+RequestDumperFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/filters/RequestDumperFilter.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/filters/Constants.java
+END
+RemoteAddrFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/filters/RemoteAddrFilter.java
+END
+AddDefaultCharsetFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/filters/AddDefaultCharsetFilter.java
+END
+CsrfPreventionFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/filters/CsrfPreventionFilter.java
+END
+RequestFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/filters/RequestFilter.java
+END
+RemoteHostFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/filters/RemoteHostFilter.java
+END
+FilterBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/filters/FilterBase.java
+END
+ExpiresFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/filters/ExpiresFilter.java
+END
+SetCharacterEncodingFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/filters/SetCharacterEncodingFilter.java
+END
+WebdavFixFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/filters/WebdavFixFilter.java
+END

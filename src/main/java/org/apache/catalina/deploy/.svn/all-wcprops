@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/deploy
+END
+SecurityConstraint.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/deploy/SecurityConstraint.java
+END
+SessionCookie.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/deploy/SessionCookie.java
+END
+JspPropertyGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/deploy/JspPropertyGroup.java
+END
+LoginConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/deploy/LoginConfig.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/deploy/package.html
+END
+Multipart.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/deploy/Multipart.java
+END
+FilterMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/deploy/FilterMap.java
+END
+SecurityCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/deploy/SecurityCollection.java
+END
+mbeans-descriptors.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/deploy/mbeans-descriptors.xml
+END
+ApplicationParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/deploy/ApplicationParameter.java
+END
+FilterDef.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/deploy/FilterDef.java
+END
+ErrorPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/deploy/ErrorPage.java
+END

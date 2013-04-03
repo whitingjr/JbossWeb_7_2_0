@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/tomcat/util/modeler/modules
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/tomcat/util/modeler/modules/package.html
+END
+MbeansDescriptorsSerSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/tomcat/util/modeler/modules/MbeansDescriptorsSerSource.java
+END
+MbeansSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/tomcat/util/modeler/modules/MbeansSource.java
+END
+MbeansDescriptorsDOMSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/tomcat/util/modeler/modules/MbeansDescriptorsDOMSource.java
+END
+ModelerSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/tomcat/util/modeler/modules/ModelerSource.java
+END
+MbeansDescriptorsIntrospectionSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/tomcat/util/modeler/modules/MbeansDescriptorsIntrospectionSource.java
+END
+MbeansSourceMBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/tomcat/util/modeler/modules/MbeansSourceMBean.java
+END

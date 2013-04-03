@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/valves
+END
+ValveBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/valves/ValveBase.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/valves/Constants.java
+END
+StuckThreadDetectionValve.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/valves/StuckThreadDetectionValve.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/valves/package.html
+END
+CometConnectionManagerValve.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/valves/CometConnectionManagerValve.java
+END
+SemaphoreValve.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/valves/SemaphoreValve.java
+END
+RemoteIpValve.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/valves/RemoteIpValve.java
+END
+ExtendedAccessLogValve.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/valves/ExtendedAccessLogValve.java
+END
+ErrorReportValve.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/valves/ErrorReportValve.java
+END
+mbeans-descriptors.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/valves/mbeans-descriptors.xml
+END
+RemoteAddrValve.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/valves/RemoteAddrValve.java
+END
+JDBCAccessLogValve.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/valves/JDBCAccessLogValve.java
+END
+RemoteHostValve.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/valves/RemoteHostValve.java
+END
+FastCommonAccessLogValve.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/valves/FastCommonAccessLogValve.java
+END
+EventOrAsyncConnectionManagerValve.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/valves/EventOrAsyncConnectionManagerValve.java
+END
+RequestFilterValve.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/valves/RequestFilterValve.java
+END
+CrawlerSessionManagerValve.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/valves/CrawlerSessionManagerValve.java
+END
+PersistentValve.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/valves/PersistentValve.java
+END
+SSLValve.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/valves/SSLValve.java
+END
+AccessLogValve.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/valves/AccessLogValve.java
+END
+RequestDumperValve.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/valves/RequestDumperValve.java
+END

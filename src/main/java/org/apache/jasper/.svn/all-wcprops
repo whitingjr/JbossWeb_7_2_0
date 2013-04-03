@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/jasper
+END
+EmbeddedServletOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/jasper/EmbeddedServletOptions.java
+END
+Options.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/jasper/Options.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/jasper/Constants.java
+END
+JspCompilationContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/jasper/JspCompilationContext.java
+END
+JasperException.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/jasper/JasperException.java
+END

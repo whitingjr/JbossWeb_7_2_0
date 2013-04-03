@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/deploy/jsp
+END
+TagVariableInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/deploy/jsp/TagVariableInfo.java
+END
+FunctionInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/deploy/jsp/FunctionInfo.java
+END
+TagLibraryValidatorInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/deploy/jsp/TagLibraryValidatorInfo.java
+END
+TagFileInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/deploy/jsp/TagFileInfo.java
+END
+TagInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/deploy/jsp/TagInfo.java
+END
+TagAttributeInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/deploy/jsp/TagAttributeInfo.java
+END
+TagLibraryInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/deploy/jsp/TagLibraryInfo.java
+END

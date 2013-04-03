@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/el/lang
+END
+ExpressionBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/el/lang/ExpressionBuilder.java
+END
+ELArithmetic.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/el/lang/ELArithmetic.java
+END
+EvaluationContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/el/lang/EvaluationContext.java
+END
+FunctionMapperImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/el/lang/FunctionMapperImpl.java
+END
+VariableMapperImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/el/lang/VariableMapperImpl.java
+END
+ELSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/el/lang/ELSupport.java
+END
+FunctionMapperFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/el/lang/FunctionMapperFactory.java
+END
+VariableMapperFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/el/lang/VariableMapperFactory.java
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/jboss/web/rewrite
+END
+mbeans-descriptors.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/jboss/web/rewrite/mbeans-descriptors.xml
+END
+RewriteCond.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/jboss/web/rewrite/RewriteCond.java
+END
+RewriteRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/jboss/web/rewrite/RewriteRule.java
+END
+TomcatResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/jboss/web/rewrite/TomcatResolver.java
+END
+Substitution.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/jboss/web/rewrite/Substitution.java
+END
+RewriteMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/jboss/web/rewrite/RewriteMap.java
+END
+RewriteValve.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/jboss/web/rewrite/RewriteValve.java
+END
+Resolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/jboss/web/rewrite/Resolver.java
+END

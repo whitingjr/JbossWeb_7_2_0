@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/test/java/org/jboss/web/upgrade
+END
+Upgrade00ServletTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/test/java/org/jboss/web/upgrade/Upgrade00ServletTest.java
+END
+UpgradeServletTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/test/java/org/jboss/web/upgrade/UpgradeServletTest.java
+END

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/tomcat/util/net
+END
+JIoEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/tomcat/util/net/JIoEndpoint.java
+END
+AprEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/tomcat/util/net/AprEndpoint.java
+END
+NioEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/tomcat/util/net/NioEndpoint.java
+END
+SocketStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/tomcat/util/net/SocketStatus.java
+END
+SSLSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/tomcat/util/net/SSLSupport.java
+END
+URL.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/tomcat/util/net/URL.java
+END
+AbstractEndpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/tomcat/util/net/AbstractEndpoint.java
+END
+NioServerSocketChannelFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/tomcat/util/net/NioServerSocketChannelFactory.java
+END
+ServerSocketFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/tomcat/util/net/ServerSocketFactory.java
+END
+SSLImplementation.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/tomcat/util/net/SSLImplementation.java
+END
+CompletionHandlerAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/tomcat/util/net/CompletionHandlerAdapter.java
+END
+DefaultNioServerSocketChannelFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/tomcat/util/net/DefaultNioServerSocketChannelFactory.java
+END
+DefaultServerSocketFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/tomcat/util/net/DefaultServerSocketFactory.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/tomcat/util/net/Constants.java
+END
+NioChannel.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/tomcat/util/net/NioChannel.java
+END

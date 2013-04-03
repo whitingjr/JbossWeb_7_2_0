@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/session
+END
+mbeans-descriptors.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/session/mbeans-descriptors.xml
+END
+StandardSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/session/StandardSession.java
+END
+ManagerBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/session/ManagerBase.java
+END
+PersistentManagerBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/session/PersistentManagerBase.java
+END
+StoreBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/session/StoreBase.java
+END
+StandardSessionFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/session/StandardSessionFacade.java
+END
+PersistentManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/session/PersistentManager.java
+END
+StandardManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/session/StandardManager.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/session/Constants.java
+END
+FileStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/session/FileStore.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/session/package.html
+END
+JDBCStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/session/JDBCStore.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/jasper/compiler/tagplugin
+END
+TagPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/jasper/compiler/tagplugin/TagPlugin.java
+END
+TagPluginContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/jasper/compiler/tagplugin/TagPluginContext.java
+END

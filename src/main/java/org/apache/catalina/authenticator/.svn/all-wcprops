@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/authenticator
+END
+SingleSignOnEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/authenticator/SingleSignOnEntry.java
+END
+mbeans-descriptors.xml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/authenticator/mbeans-descriptors.xml
+END
+AuthenticatorBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/authenticator/AuthenticatorBase.java
+END
+DigestAuthenticator.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/authenticator/DigestAuthenticator.java
+END
+SavedRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/authenticator/SavedRequest.java
+END
+BasicAuthenticator.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/authenticator/BasicAuthenticator.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/authenticator/Constants.java
+END
+SSLAuthenticator.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/authenticator/SSLAuthenticator.java
+END
+FormAuthenticator.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/authenticator/FormAuthenticator.java
+END
+NonLoginAuthenticator.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/authenticator/NonLoginAuthenticator.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/authenticator/package.html
+END
+SingleSignOn.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/catalina/authenticator/SingleSignOn.java
+END

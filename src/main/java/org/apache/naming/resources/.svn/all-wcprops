@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/naming/resources
+END
+ResourceCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/naming/resources/ResourceCache.java
+END
+ImmutableNameNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/naming/resources/ImmutableNameNotFoundException.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/naming/resources/Constants.java
+END
+BaseDirContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/naming/resources/BaseDirContext.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/naming/resources/package.html
+END
+JARDirContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/naming/resources/JARDirContext.java
+END
+DirContextURLStreamHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/naming/resources/DirContextURLStreamHandler.java
+END
+FileDirContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/naming/resources/FileDirContext.java
+END
+ProxyDirContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/naming/resources/ProxyDirContext.java
+END
+CacheEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/naming/resources/CacheEntry.java
+END
+DirContextURLConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/naming/resources/DirContextURLConnection.java
+END
+Resource.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/naming/resources/Resource.java
+END
+VirtualDirContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/naming/resources/VirtualDirContext.java
+END
+AliasDirContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/naming/resources/AliasDirContext.java
+END
+WARDirContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/naming/resources/WARDirContext.java
+END
+ResourceAttributes.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/naming/resources/ResourceAttributes.java
+END
+RecyclableNamingEnumeration.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/naming/resources/RecyclableNamingEnumeration.java
+END
+DirContextURLStreamHandlerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/naming/resources/DirContextURLStreamHandlerFactory.java
+END
+ProxyDirContextFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/naming/resources/ProxyDirContextFacade.java
+END

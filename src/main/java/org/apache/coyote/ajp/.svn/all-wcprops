@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/coyote/ajp
+END
+AjpProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/coyote/ajp/AjpProcessor.java
+END
+AjpProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/coyote/ajp/AjpProtocol.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/coyote/ajp/Constants.java
+END
+AjpAprProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/coyote/ajp/AjpAprProcessor.java
+END
+AjpAprProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/coyote/ajp/AjpAprProtocol.java
+END
+AjpMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/coyote/ajp/AjpMessage.java
+END

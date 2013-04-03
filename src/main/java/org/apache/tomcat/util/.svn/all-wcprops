@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/tomcat/util
+END
+DomUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/tomcat/util/DomUtil.java
+END
+IntrospectionUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/tomcat/util/IntrospectionUtils.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/tomcat/util/Constants.java
+END

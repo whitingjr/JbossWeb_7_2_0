@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/tomcat/util/net/jsse
+END
+JSSEFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/tomcat/util/net/jsse/JSSEFactory.java
+END
+NioJSSEImplementation.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/tomcat/util/net/jsse/NioJSSEImplementation.java
+END
+JSSESupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/tomcat/util/net/jsse/JSSESupport.java
+END
+NioJSSEFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/tomcat/util/net/jsse/NioJSSEFactory.java
+END
+NioJSSESocketChannelFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/tomcat/util/net/jsse/NioJSSESocketChannelFactory.java
+END
+JSSESocketFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/tomcat/util/net/jsse/JSSESocketFactory.java
+END
+SecureNioChannel.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/tomcat/util/net/jsse/SecureNioChannel.java
+END
+NioJSSESupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/tomcat/util/net/jsse/NioJSSESupport.java
+END
+JSSEKeyManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/tomcat/util/net/jsse/JSSEKeyManager.java
+END
+JSSEImplementation.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/tomcat/util/net/jsse/JSSEImplementation.java
+END

@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/webapps/docs
+END
+default-servlet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/webapps/docs/default-servlet.xml
+END
+jbossweb.css
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/webapps/docs/jbossweb.css
+END
+project.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/webapps/docs/project.xml
+END
+class-loader-howto.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/webapps/docs/class-loader-howto.xml
+END
+index.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/webapps/docs/index.xml
+END
+aio.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/webapps/docs/aio.xml
+END
+html-manager-howto.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/webapps/docs/html-manager-howto.xml
+END
+connectors.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/webapps/docs/connectors.xml
+END
+security-manager-howto.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/webapps/docs/security-manager-howto.xml
+END
+proxy-howto.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/webapps/docs/proxy-howto.xml
+END
+deployer-howto.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/webapps/docs/deployer-howto.xml
+END
+introduction.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/webapps/docs/introduction.xml
+END
+rewrite.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/webapps/docs/rewrite.xml
+END
+apr.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/webapps/docs/apr.xml
+END
+tomcat-docs.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/webapps/docs/tomcat-docs.xsl
+END
+legal.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/webapps/docs/legal.xml
+END
+monitoring.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/webapps/docs/monitoring.xml
+END
+logging.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/webapps/docs/logging.xml
+END
+windows-service-howto.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/webapps/docs/windows-service-howto.xml
+END
+changelog.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/webapps/docs/changelog.xml
+END
+building.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/webapps/docs/building.xml
+END
+virtual-hosting-howto.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/webapps/docs/virtual-hosting-howto.xml
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/webapps/docs/build.xml
+END
+ssl-howto.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/webapps/docs/ssl-howto.xml
+END
+sysprops.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/webapps/docs/sysprops.xml
+END

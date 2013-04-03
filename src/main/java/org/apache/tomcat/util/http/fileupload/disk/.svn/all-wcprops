@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/tomcat/util/http/fileupload/disk
+END
+DiskFileItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/tomcat/util/http/fileupload/disk/DiskFileItem.java
+END
+DiskFileItemFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/tomcat/util/http/fileupload/disk/DiskFileItemFactory.java
+END

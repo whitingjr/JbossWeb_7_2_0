@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/cometd/bayeux
+END
+Message.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/cometd/bayeux/Message.java
+END
+Listener.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/cometd/bayeux/Listener.java
+END
+SecurityPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/cometd/bayeux/SecurityPolicy.java
+END
+Channel.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/cometd/bayeux/Channel.java
+END
+Bayeux.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/cometd/bayeux/Bayeux.java
+END
+Client.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/cometd/bayeux/Client.java
+END
+DataFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/cometd/bayeux/DataFilter.java
+END

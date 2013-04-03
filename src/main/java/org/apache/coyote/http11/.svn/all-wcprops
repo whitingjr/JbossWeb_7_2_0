@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/coyote/http11
+END
+Http11Protocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/coyote/http11/Http11Protocol.java
+END
+InputFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/coyote/http11/InputFilter.java
+END
+Http11AbstractProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/coyote/http11/Http11AbstractProcessor.java
+END
+Http11AprProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/coyote/http11/Http11AprProtocol.java
+END
+OutputFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/coyote/http11/OutputFilter.java
+END
+Http11NioProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/coyote/http11/Http11NioProtocol.java
+END
+AbstractInternalInputBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/coyote/http11/AbstractInternalInputBuffer.java
+END
+AbstractInternalOutputBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/coyote/http11/AbstractInternalOutputBuffer.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/coyote/http11/Constants.java
+END
+Http11Processor.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/coyote/http11/Http11Processor.java
+END
+Http11AprProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/coyote/http11/Http11AprProcessor.java
+END
+InternalInputBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/coyote/http11/InternalInputBuffer.java
+END
+Http11NioProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/coyote/http11/Http11NioProcessor.java
+END
+Http11AbstractProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/coyote/http11/Http11AbstractProtocol.java
+END
+InternalOutputBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/coyote/http11/InternalOutputBuffer.java
+END
+InternalAprInputBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/coyote/http11/InternalAprInputBuffer.java
+END
+InternalAprOutputBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/coyote/http11/InternalAprOutputBuffer.java
+END
+InternalNioInputBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/coyote/http11/InternalNioInputBuffer.java
+END
+InternalNioOutputBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/src/main/java/org/apache/coyote/http11/InternalNioOutputBuffer.java
+END

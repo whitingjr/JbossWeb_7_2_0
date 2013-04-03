@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/webapps/docs/funcspecs
+END
+fs-default.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/webapps/docs/funcspecs/fs-default.xml
+END
+fs-memory-realm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/webapps/docs/funcspecs/fs-memory-realm.xml
+END
+fs-admin-apps.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/webapps/docs/funcspecs/fs-admin-apps.xml
+END
+fs-invoker.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/webapps/docs/funcspecs/fs-invoker.xml
+END
+mbean-names.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/webapps/docs/funcspecs/mbean-names.xml
+END
+fs-admin-opers.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/webapps/docs/funcspecs/fs-admin-opers.xml
+END
+fs-admin-objects.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/webapps/docs/funcspecs/fs-admin-objects.xml
+END
+fs-jdbc-realm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/webapps/docs/funcspecs/fs-jdbc-realm.xml
+END
+project.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/webapps/docs/funcspecs/project.xml
+END
+index.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/webapps/docs/funcspecs/index.xml
+END
+fs-jndi-realm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/jbossweb/!svn/ver/2157/tags/JBOSSWEB_7_2_0_FINAL/webapps/docs/funcspecs/fs-jndi-realm.xml
+END
