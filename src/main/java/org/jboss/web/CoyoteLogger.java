@@ -95,15 +95,15 @@ public interface CoyoteLogger extends BasicLogger {
     @Message(id = 3004, value = "Secure renegotiation is not supported by the SSL library %s")
     void noInsecureRengotiation(String version);
 
-    @LogMessage(level = DEBUG)
+    @LogMessage(level = ERROR)
     @Message(id = 3005, value = "Handshake failed: %s")
     void handshakeFailed(String cause);
 
-    @LogMessage(level = DEBUG)
+    @LogMessage(level = ERROR)
     @Message(id = 3006, value = "Handshake failed")
     void handshakeFailed(@Cause Throwable exception);
 
-    @LogMessage(level = DEBUG)
+    @LogMessage(level = ERROR)
     @Message(id = 3007, value = "Unexpected error processing socket")
     void unexpectedError(@Cause Throwable exception);
 
@@ -111,7 +111,7 @@ public interface CoyoteLogger extends BasicLogger {
     @Message(id = 3008, value = "Maximum number of threads (%s) created for connector with address %s and port %s")
     void maxThreadsReached(int maxThreads, InetAddress address, int port);
 
-    @LogMessage(level = INFO)
+    @LogMessage(level = ERROR)
     @Message(id = 3009, value = "Failed to create poller with specified size of %s")
     void limitedPollerSize(int size);
 
@@ -159,23 +159,23 @@ public interface CoyoteLogger extends BasicLogger {
     @Message(id = 3020, value = "Error closing clannel")
     void errorClosingChannel(@Cause Throwable exception);
 
-    @LogMessage(level = DEBUG)
+    @LogMessage(level = ERROR)
     @Message(id = 3021, value = "Error closing socket")
     void errorClosingSocket(@Cause Throwable exception);
 
-    @LogMessage(level = INFO)
-    @Message(id = 3022, value = "Channel processing failed")
-    void errorProcessingChannel();
+    @LogMessage(level = ERROR)
+    @Message(id = 3022, value = "3022,Channel processing handler [%1$b] acceptor [%2$b] failed channel added [%3$b], options set [%4$b], already open [%5$b], was processed [%6$b] proccessing outcome [%7$b].")
+    void errorProcessingChannel(boolean isHandler, boolean isAcceptor, boolean isChannelAdded, boolean isChannelOptsSet, boolean isChannelOpen, boolean isChannelProcessed, boolean ok);
 
-    @LogMessage(level = DEBUG)
-    @Message(id = 3023, value = "Channel processing failed")
+    @LogMessage(level = ERROR)
+    @Message(id = 3023, value = "3023,Channel processing failed")
     void errorProcessingChannelDebug(@Cause Throwable exception);
 
     @LogMessage(level = ERROR)
-    @Message(id = 3024, value = "Channel processing failed")
+    @Message(id = 3024, value = "3024,Channel processing failed")
     void errorProcessingChannelWithException(@Cause Throwable exception);
 
-    @LogMessage(level = DEBUG)
+    @LogMessage(level = ERROR)
     @Message(id = 3025, value = "Error awaiting read")
     void errorAwaitingRead(@Cause Throwable exception);
 
@@ -199,7 +199,7 @@ public interface CoyoteLogger extends BasicLogger {
     @Message(id = 3030, value = "Empty parameter chunk ignored")
     void emptyParamterChunk();
 
-    @LogMessage(level = DEBUG)
+    @LogMessage(level = ERROR)
     @Message(id = 3031, value = "Invalid chunk starting at byte [%s] and ending at byte [%s] with a value of [%s] ignored")
     void parameterInvalid(int start, int end, String value);
 
@@ -219,11 +219,11 @@ public interface CoyoteLogger extends BasicLogger {
     @Message(id = 3035, value = "Parameters processing failed.")
     void parametersProcessingFailed();
 
-    @LogMessage(level = DEBUG)
+    @LogMessage(level = ERROR)
     @Message(id = 3036, value = "Invalid cookie header [%s].")
     void invalidCookieHeader(String header);
 
-    @LogMessage(level = DEBUG)
+    @LogMessage(level = ERROR)
     @Message(id = 3037, value = "Invalid special cookie [%s].")
     void invalidSpecialCookie(String cookie);
 
@@ -231,15 +231,15 @@ public interface CoyoteLogger extends BasicLogger {
     @Message(id = 3038, value = "Error processing request")
     void errorProcessingRequest(@Cause Throwable t);
 
-    @LogMessage(level = DEBUG)
+    @LogMessage(level = ERROR)
     @Message(id = 3039, value = "Unexpected AJP message with type [%s].")
     void unexpectedAjpMessage(int type);
 
-    @LogMessage(level = DEBUG)
+    @LogMessage(level = ERROR)
     @Message(id = 3040, value = "Header message parsing failed.")
     void errorParsingAjpHeaderMessage(@Cause Throwable t);
 
-    @LogMessage(level = DEBUG)
+    @LogMessage(level = ERROR)
     @Message(id = 3041, value = "Error preparing AJP request.")
     void errorPreparingAjpRequest(@Cause Throwable t);
 
@@ -291,7 +291,7 @@ public interface CoyoteLogger extends BasicLogger {
     @Message(id = 3053, value = "Skip destroy for Coyote AJP/1.3 on %s due to active request processors")
     void cannotDestroyAjpProtocolWithException(String name, @Cause Throwable t);
 
-    @LogMessage(level = DEBUG)
+    @LogMessage(level = ERROR)
     @Message(id = 3054, value = "Socket exception processing event.")
     void socketException(@Cause Throwable t);
 
@@ -327,19 +327,19 @@ public interface CoyoteLogger extends BasicLogger {
     @Message(id = 3062, value = "Error parsing regular expression %s")
     void errorParsingRegexp(String expression, @Cause Throwable t);
 
-    @LogMessage(level = DEBUG)
+    @LogMessage(level = ERROR)
     @Message(id = 3063, value = "Error during non blocking read")
     void errorWithNonBlockingRead(@Cause Throwable t);
 
-    @LogMessage(level = DEBUG)
+    @LogMessage(level = ERROR)
     @Message(id = 3064, value = "Error during blocking read")
     void errorWithBlockingRead(@Cause Throwable t);
 
-    @LogMessage(level = DEBUG)
+    @LogMessage(level = ERROR)
     @Message(id = 3065, value = "Error during non blocking write")
     void errorWithNonBlockingWrite(@Cause Throwable t);
 
-    @LogMessage(level = DEBUG)
+    @LogMessage(level = ERROR)
     @Message(id = 3066, value = "Error during blocking write")
     void errorWithBlockingWrite(@Cause Throwable t);
 
@@ -355,11 +355,11 @@ public interface CoyoteLogger extends BasicLogger {
     @Message(id = 3069, value = "Error intializing filter %s")
     void errorInitializingFilter(String filter, @Cause Throwable t);
 
-    @LogMessage(level = DEBUG)
+    @LogMessage(level = ERROR)
     @Message(id = 3070, value = "Error parsing HTTP request header")
     void errorParsingHeader(@Cause Throwable t);
 
-    @LogMessage(level = DEBUG)
+    @LogMessage(level = ERROR)
     @Message(id = 3071, value = "Error preparing request")
     void errorPreparingRequest(@Cause Throwable t);
 

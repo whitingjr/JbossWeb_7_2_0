@@ -640,17 +640,25 @@ public class NioEndpoint extends AbstractEndpoint {
 					// channel
 					final NioChannel channel = serverSocketChannelFactory.acceptChannel(listener);
 					boolean ok = false;
-					if (addChannel(channel) && setChannelOptions(channel) && channel.isOpen()) {
+					boolean isChannelAdded = addChannel(channel);
+					boolean isChannelOptsSet = setChannelOptions(channel);
+					boolean isChannelOpen = channel.isOpen();
+					boolean isChannelProcessed = false; 
+					// we now ignore the state of addChannel, we want to process channels that are already in the list
+					if (isChannelOptsSet && isChannelOpen) {
+					//if (addChannel(channel) && setChannelOptions(channel) && channel.isOpen()) {
+					    // If the channel was not added, instead it already existed
 						if (channel.isSecure()) {
 							handshake(channel);
 							ok = true;
 						} else {
 							ok = processChannel(channel, null);
+							isChannelProcessed = true;
 						}
 					}
 					// If a problem occurs, close the channel right away
 					if (!ok) {
-		                CoyoteLogger.UTIL_LOGGER.errorProcessingChannel();
+		                CoyoteLogger.UTIL_LOGGER.errorProcessingChannel(false, true, isChannelAdded, isChannelOptsSet, isChannelOpen, isChannelProcessed, ok);
 						closeChannel(channel);
 					}
 				} catch (Exception exp) {
@@ -699,15 +707,20 @@ public class NioEndpoint extends AbstractEndpoint {
 		 */
 		@Override
 		public void run() {
+		    boolean isChannelProcessed = false;
+		    boolean isProcessingSuccessful = false;
 			try {
 				serverSocketChannelFactory.handshake(channel);
-
-				if (!processChannel(channel, null)) {
-                    CoyoteLogger.UTIL_LOGGER.errorProcessingChannel();
+                isProcessingSuccessful = processChannel(channel, null);
+                isChannelProcessed = true;
+                if (!isProcessingSuccessful) {
+				//if (!processChannel(channel, null)) {
+                    CoyoteLogger.UTIL_LOGGER.errorProcessingChannel(true, false, false, false, false, isChannelProcessed, isProcessingSuccessful);
 					closeChannel(channel);
 				}
 			} catch (Exception exp) {
                 CoyoteLogger.UTIL_LOGGER.errorProcessingChannelDebug(exp);
+                CoyoteLogger.UTIL_LOGGER.error(String.format("Problem occured when processing channel in handler thread exception block, is processed [%1$b], processing outcome [%2$b].", isChannelProcessed, isProcessingSuccessful))  ;
 				closeChannel(channel);
 			} finally {
 				this.recycle();
@@ -1002,8 +1015,8 @@ public class NioEndpoint extends AbstractEndpoint {
 	 */
 	protected class ChannelProcessor implements Runnable {
 
-		protected NioChannel channel;
-		protected SocketStatus status = null;
+		volatile protected NioChannel channel;
+		volatile protected SocketStatus status = null;
 
 		/**
 		 * Create a new instance of {@code ChannelProcessor}
@@ -1027,17 +1040,40 @@ public class NioEndpoint extends AbstractEndpoint {
 
 		@Override
 		public void run() {
+		    boolean isStatusNull = true;
+		    boolean isChannelProcessed = false;
+		    boolean isChannelEventSignal = false;
+		    boolean isChannelClosed = false;
+		    boolean isChannelMeantToBeClosed = false;
 			try {
+			    Handler.SocketState state = null;
+			    if (status == null){
+			       
+			       state = handler.process(channel);
+			       isChannelProcessed = true;
+			    }else{
+			       isStatusNull = false;
+			       state = handler.event(channel, status);
+			       isChannelEventSignal = true;
+			    }
+			    /*
 				Handler.SocketState state = ((status == null) ? handler.process(channel) : handler
-						.event(channel, status));
+						.event(channel, status));*/
 
 				if (state == SocketState.CLOSED) {
+				    isChannelMeantToBeClosed = true;
 					closeChannel(channel);
+					isChannelClosed = true;
 				}
 			} catch (Throwable th) {
                 CoyoteLogger.UTIL_LOGGER.errorProcessingChannelWithException(th);
 			} finally {
-				this.recycle();
+	 		    try {
+	 		        closeChannel(channel);
+	 		    }
+			    finally{
+			        this.recycle();
+			    }
 			}
 		}
 
